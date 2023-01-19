@@ -1,0 +1,44 @@
+
+
+
+body {
+  background-image: url(pictures/earth.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  navbar-hover-color: #{blue};
+}
+
+
+nav {
+  background-color: #87bde4;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+
+
+.container {
+  margin-left: 22px;
+
+  
+ 
+
+}
+
+.btn-info {
+  font-size: 15px;
+  border-color: white;
+  border-width: 2px;
+}
+.btn-info:hover {
+font-weight: bold;
+background-color: #1a9be7;
+border-width: 1px;
+border-color: #1a9be7;
+border-color: white;
+border-width: 3px;
+}
